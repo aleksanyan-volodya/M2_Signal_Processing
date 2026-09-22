@@ -476,6 +476,9 @@ requires-dist = [
     { name = "scipy", specifier = ">=1.18.1" },
 ]
 
+[package.metadata.requires-dev]
+dev = []
+
 [[package]]
 name = "matplotlib"
 version = "3.11.2"
